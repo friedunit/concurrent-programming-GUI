@@ -1,4 +1,6 @@
-# Purpose: As a new engineer for a traffic congestion mitigation company, you have been tasked with developing a
+# Java Swing GUI working with concurrent programming, Threads, and Runnable interface
+
+Purpose: As a new engineer for a traffic congestion mitigation company, you have been tasked with developing a
 Java Swing GUI that displays time, traffic signals and other information for traffic analysts. The final GUI
 design is up to you but should include viewing ports/panels to display the following components of the
 simulation:
