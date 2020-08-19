@@ -17,6 +17,8 @@ consistent and define your units of measure (e.g. mile/hour, versus km/hour)
 7. Don't worry about physics. Assume cars will stop on a dime for red lights, and continue through
 yellow lights and green lights.
 
+![Screenshot1](https://raw.githubusercontent.com/friedunit/concurrent-programming-GUI/master/screenshots/gui1.png)
+
 The current time updates every second and runs while the program is running. I added JSliders to represent the 4 cars moving along the road. The tick marks represent the traffic lights 1000 meters apart. The table displays the information and updates with the simulation to show each car’s x-position and speed. Clicking the start button begins the simulation.
  
 Each of the 3 intersections displays their current traffic light color. While green and yellow, the cars traverse through the lights, incrementing the x-position 5 meters every 1/10th of a second. This makes their speed 180 km/h which, of course, is extremely fast, but it is just for the simulation.
